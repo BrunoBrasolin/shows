@@ -183,7 +183,7 @@
 - Local: Allianz Parque
 - Setlist:
 1. Doctor Doctor
-2. Blade Runner (End Titles)
+2. Blade Runner
 3. Caught Somewhere in Time
 4. Stranger in a Strange Land
 5. The Writing on the Wall
@@ -277,16 +277,16 @@
 4. Pau-de-Arara
 5. No Gravity
 6. Vital Signs
-7. Carry On / Spread Your Fire / Nova Era / Morning Star / Evil Warning / Speed (Angra song)
+7. Carry On / Spread Your Fire / Nova Era / Morning Star / Evil Warning / Speed
 8. Du Monde
-9. Conquer or Die! (Megadeth song)
-10. Killing Time (Megadeth song) (Kiko on vocals)
+9. Conquer or Die!
+10. Killing Time
 11. Dreamlike
-12. Rebirth (Angra song) (with Alirio Netto)
+12. Rebirth
 13. Dilemma
-14. Crossing (Angra song)
-15. Nothing to Say (Angra song) (with Alirio Netto)
-16. Stormbringer (Deep Purple cover) (with Alirio Netto)
+14. Crossing
+15. Nothing to Say
+16. Stormbringer
 17. Enfermo
 
 
@@ -298,14 +298,14 @@
 2. The Zephyr Song
 3. Snow ((Hey Oh))
 4. Here Ever After
-5. Havana Affair (Ramones cover)
+5. Havana Affair
 6. Eddie
 7. Parallel Universe
 8. Soul to Squeeze
 9. Right on Time
 10. Tippa My Tongue
 11. Tell Me Baby
-12. Terrapin (Syd Barrett cover)
+12. Terrapin
 13. Don't Forget Me
 14. Californication
 15. Black Summer
@@ -321,7 +321,7 @@
 5. Goin Slow
 6. Big Shot
 7. Super//Star
-8. Feel Good Inc. (Gorillaz cover)
+8. Feel Good Inc.
 9. Stick Figure Attack
 10. Be Bold Like Elijah
 
