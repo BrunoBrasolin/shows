@@ -1,6 +1,4 @@
-# Shows
-
-## Avenged Sevenfold | LIFE IS BUT A DREAM...
+# Avenged Sevenfold | LIFE IS BUT A DREAM...
 - Data: 31/01/2026
 - Local: Allianz Parque
 - Setlist:
@@ -24,7 +22,7 @@
 18. A Little Piece of Heaven
 19. My Way
 
-### A Day To Remember | Show Abertura
+## A Day To Remember | Show Abertura
 1. Sprach Zarathustra, Op. 30
 2. The Downfall of Us All
 3. I'm Made of Wax, Larry, What Are You Made Of?
@@ -42,7 +40,7 @@
 15. All I Want
 16. All Signs Point to Lauderdale
 
-#### Mr. Bungle | Show Abertura
+### Mr. Bungle | Show Abertura
 1. Sprach Zarathustra, Op. 30
 2. Tuyo
 3. Anarchy Up Your Anus
@@ -58,7 +56,7 @@
 13. My Ass Is on Fire
 14. All by Myself
 
-## Roupa Nova | Simplesmente Roupa Nova
+# Roupa Nova | Simplesmente Roupa Nova
 - Data: 15/11/2025
 - Local: Santos Convention Center
 - Setlist:
@@ -88,7 +86,7 @@
 24. Os corações não são iguais
 25. Whisky a Go Go
 
-## Linkin Park | From Zero World Tour
+# Linkin Park | From Zero World Tour
 - Data: 08/11/2025
 - Local: Morumbis
 - Setlist:
@@ -128,7 +126,7 @@
 34. Bleed It Out
 35. Pass the Mic
 
-### Poppy | Show Abertura
+## Poppy | Show Abertura
 1. have you had enough?
 2. BLOODMONEY
 3. V.A.N
@@ -138,7 +136,7 @@
 7. Concrete
 8. new way out
 
-## Twenty One Pilots | The Clancy World Tour
+# Twenty One Pilots | The Clancy World Tour
 - Data: 26/01/2025
 - Local: Allianz Parque
 - Setlist:
@@ -170,7 +168,7 @@
 26. Trees
 27. Lavish
 
-### Balu Brigada | Show Abertura
+## Balu Brigada | Show Abertura
 1. Moon Man
 2. Number One
 3. 2good
@@ -180,7 +178,7 @@
 7. So Cold
 8. Could You Not
 
-## Iron Maiden | The Future Past
+# Iron Maiden | The Future Past
 - Data: 06/12/2024
 - Local: Allianz Parque
 - Setlist:
@@ -203,7 +201,7 @@
 17. Wasted Years
 18. Always Look on the Bright Side of Life
 
-### Volbeat | Show Abertura
+## Volbeat | Show Abertura
 1. Born to Raise Hell
 2. The Devil's Bleeding Crown
 3. Lola Montez
@@ -220,7 +218,7 @@
 14. “Trust Me”
 
 
-## Linkin Park | From Zero World Tour
+# Linkin Park | From Zero World Tour
 - Data: 15/11/2024
 - Local: Allianz Parque
 - Setlist:
@@ -258,7 +256,7 @@
 32. Heavy Is the Crown
 33. Bleed It Out
 
-### Ego Kill Talent | Show Abertura
+## Ego Kill Talent | Show Abertura
 1. Reflecting Love
 2. We Move as One
 3. Call Us by Her Name
@@ -269,7 +267,7 @@
 8. Finding Freedom
 9. Last Ride
 
-## Kiko Loureiro | The Kiko Loureiro Experience
+# Kiko Loureiro | The Kiko Loureiro Experience
 - Data: 04/08/2024
 - Local: Arena Club
 - Setlist:
@@ -292,7 +290,7 @@
 17. Enfermo
 
 
-## Red Hot Chilli Peppers | Global Stadium Tour
+# Red Hot Chilli Peppers | Global Stadium Tour
 - Data: 10/11/2023
 - Local: Estádio do Morumbi
 - Setlist:
@@ -315,7 +313,7 @@
 17. Under the Bridge
 18. Give It Away
 
-### Irontom | Show Abertura
+## Irontom | Show Abertura
 1. Common Chaos
 2. Con Artist
 3. Call Me the West
@@ -327,7 +325,7 @@
 9. Stick Figure Attack
 10. Be Bold Like Elijah
 
-## Iron Maiden | Legacy of the Beast World Tour
+# Iron Maiden | Legacy of the Beast World Tour
 - Data: 04/09/2022
 - Local: Estádio do Morumbi
 - Setlist:
@@ -348,7 +346,7 @@
 15. Run to the Hills
 16. Aces High
 
-### Avatar | Show Abertura
+## Avatar | Show Abertura
 1. Hail the Apocalypse
 2. Let It Burn
 3. Colossus
